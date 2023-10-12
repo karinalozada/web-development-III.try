@@ -1,0 +1,52 @@
+p{
+    font-size: 20px;
+    color:antiquewhite;
+    font-family: professor-minty, sans-serif;
+    font-style:normal 
+  
+}
+div{
+    text-align: center;
+    image-orientation: center: url("../images/serpiente.png");
+}
+    
+div.nav{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/rectangulo-azul.jpeg");
+    
+}
+  
+
+
+p.favorite{color: lightskyblue;font-size: 16px}
+h1{
+    color: orange
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/fondo-gradiente.jpg");
+}
+
+
+
+
+a:hover{color: cornsilk}
+
+ul {
+    color:white;
+}
+il {
+    color:white;
+}
+a {
+    font-size: 25px;
+    color:lightskyblue;
+    font-family: professor-minty;
+}
+antiquewhit6
+darkviolet

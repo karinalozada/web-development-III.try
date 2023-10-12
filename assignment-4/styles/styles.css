@@ -1,0 +1,86 @@
+p{
+    font-size: 20px;
+    color:antiquewhite;
+    font-family: "english", sans-serif;
+    font-style:normal; 
+ 
+}
+p.caption{
+    float: left;
+    width: 75%;
+    
+    
+}
+
+img.biography{
+    float: left;
+}
+div{
+    text-align: center;
+   
+}
+    
+div.nav{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/rectangulo-azul.jpeg");
+    
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/fondo-gradiente.jpg");
+}
+
+h1{
+    font-family: professor minty;
+    color: lightskyblue;
+    text-align: center;
+}
+h2{
+    font-family: professor minty;
+    color: lightblue;
+}
+
+a:hover{color: cornsilk;
+}
+
+
+ul {
+    color:white;
+}
+il {
+    color:white;
+}
+
+a {
+     font-size: 35px;
+     color:lightskyblue;
+     font-family: professor-minty;   
+}
+div.movies1 {
+    width: 40%;
+    height: 100%;
+    float: left;
+    text-align: center;    
+}
+div.movies2 {
+    width: 40%;
+    height: 100%;
+    float: right;
+    text-align: right;    
+}
+
+
+/* 
+a{
+    font-size: 35px;
+    color:lightskyblue;
+    font-family: english-regular;
+}
+        
+
+*/

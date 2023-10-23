@@ -1,17 +1,37 @@
-p{
-    font-size: 30px;
-    font-family: ;
-    font-style: ;
-    text-align: center;
-  
+p {
+    font-family: "gelica", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+
 }
-div{
-    text-align: center;);
+
+div {
+    text-align: left;
+
 }
-body{
+
+body {
+    font-size: 25px;
+    font-family: "gelica", sans-serif;
+    font-weight: 200;
+    font-style: normal;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: greenyellow;
 }
 
+body.succes {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/Fondo-verde.avif");
+}
 
+.submit {
+    text-align: center;
+
+}
+
+div.succes {
+
+    text-align: center;
+}

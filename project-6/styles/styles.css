@@ -1,0 +1,70 @@
+p {
+    font-family: marseille, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    color: black;
+
+}
+
+h1 {
+    font-family: marseille, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
+
+h2 {
+
+    font-size: 25px;
+    color: black;
+    font-family: ;
+    font-style: normal;
+
+
+}
+
+a {
+
+    font-size: 20px;
+    color: black;
+}
+
+div.rectangle {
+    text-align: center;
+    background-color: #EF91E8;
+    font-size: 20px;
+
+}
+
+body {
+    font-size: 25px;
+    font-family: "gelica", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+}
+
+body.succes {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../images/F");
+}
+
+.submit {
+    text-align: center;
+
+}
+
+div.nav {
+
+    text-align: left;
+}
+
+p.caption {
+
+    text-align: left;
+    font-size: 18px;
+    font-family: marseille, sans-serif;
+    font-weight: lighter;
+}
